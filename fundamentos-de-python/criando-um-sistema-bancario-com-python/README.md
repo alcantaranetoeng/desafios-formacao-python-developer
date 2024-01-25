@@ -1,4 +1,4 @@
-Tal projeto simula a primeira versão de um sistema bancário idealizado na linguagem Python. As segiontes exigências foram propostas:
+Primeira versão de um sistema bancário fundamental na linguagem Python. As seguintes exigências foram propostas:
 
 Depósito:
     -Depositar valores positivos;
